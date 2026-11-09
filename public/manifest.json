@@ -1,0 +1,25 @@
+{
+  "name": "Aplikasi Pemantau Studi Mahasiswa UNUJA",
+  "short_name": "Radar UNUJA",
+  "description": "Sistem Informasi Pemantauan Perkembangan Akademik & Radar Keahlian Mahasiswa Universitas Nurul Jadid",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
